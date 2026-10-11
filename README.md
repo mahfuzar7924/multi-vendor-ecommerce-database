@@ -1,1 +1,0 @@
-# multi-vendor-ecommerce-database
